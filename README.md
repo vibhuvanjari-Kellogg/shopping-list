@@ -4,3 +4,6 @@
 - Pepperoni
 - Grapefruit
 - Blackberries
+- Jalapenos
+- Pineapple
+- Milk
